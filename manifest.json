@@ -1,0 +1,20 @@
+{
+  "name": "Mecanicadesuelos",
+  "short_name": "Mecanicadesu",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0F766E",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Penaflor, Chile. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/penaflor-0849"
+}
